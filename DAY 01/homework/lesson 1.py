@@ -1,0 +1,1 @@
+print("I met and made friends:shalva shubitidze,gigi bendeliani,giorgi gogoxia,nikoloz vachnadze")
